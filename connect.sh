@@ -1,0 +1,1 @@
+docker exec -it kearney-dev /bin/bash
